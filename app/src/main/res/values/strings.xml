@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArtNow News</string>
+    <string name="url">http://kadist-ios.herokuapp.com/artnow_main</string>
+    <string name="launch">file://preload.json</string>
+</resources>
